@@ -62,3 +62,7 @@ C:\Users\dev79\OneDrive\Escritorio\CastilloMartin_Reportes\Presentacion\obj\Debu
 C:\Users\dev79\OneDrive\Escritorio\CastilloMartin_Reportes\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
 C:\Users\dev79\OneDrive\Escritorio\CastilloMartin_Reportes\Presentacion\obj\Debug\Presentacion.exe
 C:\Users\dev79\OneDrive\Escritorio\CastilloMartin_Reportes\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\dev79\OneDrive\Escritorio\CastilloMartin_Reportes\Presentacion\bin\Debug\Entidades.dll
+C:\Users\dev79\OneDrive\Escritorio\CastilloMartin_Reportes\Presentacion\bin\Debug\Negocio.dll
+C:\Users\dev79\OneDrive\Escritorio\CastilloMartin_Reportes\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\dev79\OneDrive\Escritorio\CastilloMartin_Reportes\Presentacion\bin\Debug\Negocio.pdb

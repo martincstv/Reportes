@@ -4,3 +4,9 @@ C:\Users\dev79\OneDrive\Escritorio\CastilloMartin_Reportes\Negocio\obj\Debug\Neg
 C:\Users\dev79\OneDrive\Escritorio\CastilloMartin_Reportes\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
 C:\Users\dev79\OneDrive\Escritorio\CastilloMartin_Reportes\Negocio\obj\Debug\Negocio.dll
 C:\Users\dev79\OneDrive\Escritorio\CastilloMartin_Reportes\Negocio\obj\Debug\Negocio.pdb
+C:\Users\dev79\OneDrive\Escritorio\CastilloMartin_Reportes\Negocio\bin\Debug\Datos.dll
+C:\Users\dev79\OneDrive\Escritorio\CastilloMartin_Reportes\Negocio\bin\Debug\Entidades.dll
+C:\Users\dev79\OneDrive\Escritorio\CastilloMartin_Reportes\Negocio\bin\Debug\Datos.pdb
+C:\Users\dev79\OneDrive\Escritorio\CastilloMartin_Reportes\Negocio\bin\Debug\Datos.dll.config
+C:\Users\dev79\OneDrive\Escritorio\CastilloMartin_Reportes\Negocio\bin\Debug\Entidades.pdb
+C:\Users\dev79\OneDrive\Escritorio\CastilloMartin_Reportes\Negocio\obj\Debug\Negocio.csproj.CopyComplete
