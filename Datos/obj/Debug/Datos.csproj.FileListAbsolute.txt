@@ -1,0 +1,6 @@
+C:\Users\dev79\OneDrive\Escritorio\CastilloMartin_Reportes\Datos\bin\Debug\Datos.dll
+C:\Users\dev79\OneDrive\Escritorio\CastilloMartin_Reportes\Datos\bin\Debug\Datos.pdb
+C:\Users\dev79\OneDrive\Escritorio\CastilloMartin_Reportes\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\dev79\OneDrive\Escritorio\CastilloMartin_Reportes\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\dev79\OneDrive\Escritorio\CastilloMartin_Reportes\Datos\obj\Debug\Datos.dll
+C:\Users\dev79\OneDrive\Escritorio\CastilloMartin_Reportes\Datos\obj\Debug\Datos.pdb
