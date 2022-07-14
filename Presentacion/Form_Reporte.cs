@@ -16,5 +16,11 @@ namespace Presentacion
         {
             InitializeComponent();
         }
+
+        private void Form_Reporte_Load(object sender, EventArgs e)
+        {
+
+            this.reportViewer1.RefreshReport();
+        }
     }
 }
