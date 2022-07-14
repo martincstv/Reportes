@@ -6,7 +6,18 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
-    internal class AuthorsEntidades
+    public class AuthorsEntidades
     {
+        public string State { get; set; }
+
+        public AuthorsEntidades()
+        {
+
+        }
+
+        public AuthorsEntidades(string state)
+        {
+            State = state;
+        }
     }
 }

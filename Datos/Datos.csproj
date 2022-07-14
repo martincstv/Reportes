@@ -48,6 +48,7 @@
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
       <DependentUpon>Settings.settings</DependentUpon>
     </Compile>
+    <Compile Include="TitlesDatos.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
@@ -61,6 +62,9 @@
       <Project>{f8cfbb9b-294b-4356-a32d-3d8c0d4ccc95}</Project>
       <Name>Entidades</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Querys\Consultas.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

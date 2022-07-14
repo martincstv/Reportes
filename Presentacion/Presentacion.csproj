@@ -64,6 +64,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DataSet_Authors.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_Authors.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet_Titles.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_Titles.xsd</DependentUpon>
+    </Compile>
     <Compile Include="Form_Reporte.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -85,6 +95,29 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <None Include="DataSet_Authors.xsc">
+      <DependentUpon>DataSet_Authors.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet_Authors.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_Authors.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet_Authors.xss">
+      <DependentUpon>DataSet_Authors.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet_Titles.xsc">
+      <DependentUpon>DataSet_Titles.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet_Titles.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_Titles.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet_Titles.xss">
+      <DependentUpon>DataSet_Titles.xsd</DependentUpon>
+    </None>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -123,6 +156,9 @@
       <Project>{6826edcf-9390-4a0a-8d42-d0611fdbf971}</Project>
       <Name>Negocio</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Imagenes\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

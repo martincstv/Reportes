@@ -1,0 +1,10 @@
+﻿SELECT DISTINCT(state)
+FROM authors
+
+SELECT DISTINCT(state),
+	COUNT(au_id)
+FROM authors
+GROUP BY state
+
+SELECT DISTINCT(type)
+FROM titles
